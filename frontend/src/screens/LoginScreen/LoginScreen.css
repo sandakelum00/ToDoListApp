@@ -1,0 +1,14 @@
+.loginContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+  }
+
+  .btn-log{
+    margin-top: 20px;
+  }
+
+  .hlink{
+    color: blue;
+  }
+  

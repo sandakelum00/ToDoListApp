@@ -1,0 +1,9 @@
+.registerContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+  }
+
+  .btn-reg{
+    margin-top: 20px;
+  }
