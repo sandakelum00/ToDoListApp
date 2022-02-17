@@ -9,8 +9,8 @@ This project does not have a mongoDB connection setup. Setup the connection base
 -   JWT_SECRET = Your JWT secret
 
 Since this project will hold both the client application and the server application there will be node modules in two different places. Enter below commands to get started.      
-	`cd backend` 
-    `npm i` 
+	
+    `npm i`(in root directory) 
     `cd frontend` 
     `npm i` 
 
